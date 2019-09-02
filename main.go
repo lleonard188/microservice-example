@@ -20,7 +20,7 @@ func postFunction(w http.ResponseWriter, r *http.Request) {
 
 func main() {
 	log.Println("Working...")
-	
+
 	router := mux.NewRouter().StrictSlash(true)
 
 	setupRouter(router)
