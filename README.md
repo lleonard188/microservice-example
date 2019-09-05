@@ -1,0 +1,1 @@
+This is a microservice written in Go. It acts as a basic REST API.
