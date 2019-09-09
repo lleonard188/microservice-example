@@ -1,1 +1,1 @@
-This is a microservice written in Go. It acts as a basic REST API.
+This is a microservice written in Go. It acts as a basic REST API. A Docker image was created so it can be deployed on the Google Kubernetes Engine.
